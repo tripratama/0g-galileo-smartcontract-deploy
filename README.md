@@ -43,13 +43,5 @@ contract MyContract {
 
 ---
 
-#### 📂 Project Structure
-
-```
-├── MyContract.sol
-├── README.md
-```
-
----
 
 Made with ❤️ by [Tripratama](https://github.com/tripratama)
